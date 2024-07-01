@@ -3,5 +3,5 @@
 ## Main Screen
 ![Main Screen](./preview/screen.png)
 
-## Main Record
-![Main Record](./preview/preview.gif)
+## Record
+![Record](./preview/preview.gif)
